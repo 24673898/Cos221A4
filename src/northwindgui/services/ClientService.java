@@ -5,7 +5,7 @@ import northwindgui.utils.DatabaseConnection;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
+//the servicde file
 public class ClientService {
     public List<Client> getAllClients() throws SQLException {
     List<Client> clients = new ArrayList<>();
