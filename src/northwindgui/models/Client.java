@@ -1,5 +1,5 @@
 package northwindgui.models;
-
+//client java that gets display the java
 public class Client {
     private String clientId;
     private String companyName;
