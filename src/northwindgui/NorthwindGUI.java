@@ -1,7 +1,7 @@
 package northwindgui;
 
 import northwindgui.views.MainFrame;
-
+//the main UI
 public class NorthwindGUI {
     public static void main(String[] args) {
         java.awt.EventQueue.invokeLater(() -> {
