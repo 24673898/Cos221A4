@@ -4,7 +4,7 @@ public class CategoryReport {
     private String warehouseName;
     private String categoryName;
     private int productCount;
-
+    //these are for setting and changing
     public String getWarehouseName() {
         return warehouseName;
     }
