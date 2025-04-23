@@ -5,7 +5,7 @@ import northwindgui.utils.DatabaseConnection;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
+//report service sql
 public class ReportService {
     public List<CategoryReport> getCategoryConsolidationReport() throws SQLException {
     List<CategoryReport> reports = new ArrayList<>();
