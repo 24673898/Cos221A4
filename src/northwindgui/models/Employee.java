@@ -1,5 +1,5 @@
 package northwindgui.models;
-
+//employee attribute getter and setter
 /**
  *
  * @author jeand
