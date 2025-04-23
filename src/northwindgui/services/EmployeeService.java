@@ -10,6 +10,7 @@ import java.util.List;
  *
  * @author jeand
  */
+//the employee service file with sql
 public class EmployeeService {
     
     public List<Employee> getAllEmployees() throws SQLException {
